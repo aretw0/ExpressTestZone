@@ -1,0 +1,9 @@
+{
+	"name": "ExpressTestZone",
+	"description": "Checando o Express.JS",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "4.x"
+	}
+}
